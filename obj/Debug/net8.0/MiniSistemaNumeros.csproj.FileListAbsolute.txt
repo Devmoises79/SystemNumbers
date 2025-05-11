@@ -1,0 +1,14 @@
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\MiniSistemaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\MiniSistemaNumeros.AssemblyInfoInputs.cache
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\MiniSistemaNumeros.AssemblyInfo.cs
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\MiniSistemaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS\MiniSistemaNumeros\bin\Debug\net8.0\MiniSistemaNumeros.exe
+C:\Users\MOISÉS\MiniSistemaNumeros\bin\Debug\net8.0\MiniSistemaNumeros.deps.json
+C:\Users\MOISÉS\MiniSistemaNumeros\bin\Debug\net8.0\MiniSistemaNumeros.runtimeconfig.json
+C:\Users\MOISÉS\MiniSistemaNumeros\bin\Debug\net8.0\MiniSistemaNumeros.dll
+C:\Users\MOISÉS\MiniSistemaNumeros\bin\Debug\net8.0\MiniSistemaNumeros.pdb
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\MiniSistemaNumeros.dll
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\refint\MiniSistemaNumeros.dll
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\MiniSistemaNumeros.pdb
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\MiniSistemaNumeros.genruntimeconfig.cache
+C:\Users\MOISÉS\MiniSistemaNumeros\obj\Debug\net8.0\ref\MiniSistemaNumeros.dll
