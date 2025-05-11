@@ -54,7 +54,7 @@ dotnet run
 ```
 
 ## 🧠 Aprendizados
- - Este projeto reforça os seguintes conceitos em C#:
+ - Este projeto reforça os conceitos (em C#):
 
 - Estruturas de repetição (do-while, switch)
 
